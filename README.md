@@ -4,7 +4,7 @@
 
 Wonder How we can create expanding collapsible card using HTML CSS JS? If No, this will be the perfect repo for you.
 
-###### **Here is the Live Demo [Live Demo](smilegupta.github.io/expanding-cards/)**
+###### **Here is the Live Demo [Live Demo](https://smilegupta.github.io/expanding-cards/)**
 
 
 ## Technology Stack Used
